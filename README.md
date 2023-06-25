@@ -1,4 +1,13 @@
-# Supabase Starter
+# Supabase Test
+
+This is a test of Supabase functionality built on top of the Next.js Supabase example found [here](https://github.com/vercel/next.js/tree/canary/examples/with-supabase).
+
+I also added the Supabase CLI for [local development](https://supabase.com/docs/guides/getting-started/local-development), which requires Docker.
+Start local development with `npx supabase init` and `npx supabase start`, and see the docs for migration information.
+
+Original README from the Next.js Supabase example is copied below:
+
+---
 
 This starter configures Supabase Auth to use cookies, making the user's session available throughout the entire Next.js app - Client Components, Server Components, Route Handlers, Server Actions and Middleware.
 
